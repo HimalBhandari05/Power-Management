@@ -28,4 +28,4 @@ while True:
         except Exception as e:
             print("Error:", e)
 
-    # time.sleep(1)
+    time.sleep(3)
